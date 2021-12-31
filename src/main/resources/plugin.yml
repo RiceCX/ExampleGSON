@@ -1,0 +1,7 @@
+name: ExampleGSON
+version: '${project.version}'
+main: dev.ricecx.examplegson.ExampleGSON
+api-version: 1.18
+commands:
+  checkpoints:
+    usage: /checkpoints
